@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Runtime.InteropServices;
+using WindowsFormsDLLApp1;
 
 namespace winform_practice
 {
@@ -30,7 +32,10 @@ namespace winform_practice
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
-            MessageBox.Show(e.ClickedItem.Text);
+            
+
+            //MessageBox.Show(e.ClickedItem.Text);
+
         }
     }
 }

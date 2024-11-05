@@ -8,3 +8,7 @@ C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_
 C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.csproj.CoreCompileInputs.cache
 C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.exe
 C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.pdb
+C:\Users\soowo\source\repos\winform_practice\winform_practice\bin\Debug\WindowsFormsDLLApp1.dll
+C:\Users\soowo\source\repos\winform_practice\winform_practice\bin\Debug\WindowsFormsDLLApp1.pdb
+C:\Users\soowo\source\repos\winform_practice\winform_practice\bin\Debug\WindowsFormsDLLApp1.dll.config
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_.109A9D41.Up2Date

@@ -1,0 +1,10 @@
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\bin\Debug\WindowsFormsDLLApp1.dll.config
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\bin\Debug\WindowsFormsDLLApp1.dll
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\bin\Debug\WindowsFormsDLLApp1.pdb
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.csproj.AssemblyReference.cache
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.Properties.Resources.resources
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.csproj.GenerateResource.cache
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.csproj.CoreCompileInputs.cache
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.dll
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.pdb
+C:\Users\soowo\source\repos\winform_practice\WindowsFormsDLLApp1\obj\Debug\WindowsFormsDLLApp1.DllForm1.resources

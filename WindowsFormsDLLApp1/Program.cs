@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsDLLApp1;
-using System.Runtime.InteropServices;
-using WindowsFormsDLLApp1;
 
-namespace winform_practice
+namespace WindowsFormsDLLApp1
 {
     internal static class Program
     {
@@ -19,10 +16,7 @@ namespace winform_practice
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Form1());
-
-            DllForm1 frm1 = new DllForm1();
-            Application.Run(frm1);
+            Application.Run(new DllForm1());
         }
     }
 }

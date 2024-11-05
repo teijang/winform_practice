@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{126B00BB-B22E-4B6B-BA53-BDD52102F312}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
-    <RootNamespace>winform_practice</RootNamespace>
-    <AssemblyName>winform_practice</AssemblyName>
+    <ProjectGuid>{BC7F4285-0BF9-4870-8C95-3DE16E067162}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>WindowsFormsDLLApp1</RootNamespace>
+    <AssemblyName>WindowsFormsDLLApp1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -44,10 +47,6 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="WindowsFormsDLLApp1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\WindowsFormsDLLApp1\bin\Debug\WindowsFormsDLLApp1.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">
