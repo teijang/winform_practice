@@ -16,5 +16,21 @@ namespace winform_practice
         {
             InitializeComponent();
         }
+
+        private void basicToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //MessageBox.Show(e.ToString());
+        }
+
+        private void dialogToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(e.ToString());
+            
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            MessageBox.Show(e.ClickedItem.Text);
+        }
     }
 }

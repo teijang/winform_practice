@@ -1,0 +1,10 @@
+C:\Users\soowo\source\repos\winform_practice\winform_practice\bin\Debug\winform_practice.exe.config
+C:\Users\soowo\source\repos\winform_practice\winform_practice\bin\Debug\winform_practice.exe
+C:\Users\soowo\source\repos\winform_practice\winform_practice\bin\Debug\winform_practice.pdb
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.csproj.AssemblyReference.cache
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.Form1.resources
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.Properties.Resources.resources
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.csproj.GenerateResource.cache
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.csproj.CoreCompileInputs.cache
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.exe
+C:\Users\soowo\source\repos\winform_practice\winform_practice\obj\Debug\winform_practice.pdb
